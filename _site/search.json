@@ -14,6 +14,13 @@
     "text": "Note\n\n\n\nYou can delete everything in here and start fresh."
   },
   {
+    "objectID": "content/01_journal/02_data_acquisition.html",
+    "href": "content/01_journal/02_data_acquisition.html",
+    "title": "Data Acquisition",
+    "section": "",
+    "text": "Note\n\n\n\nYou can delete everything in here and start fresh."
+  },
+  {
     "objectID": "content/01_journal/04_data_visualization.html",
     "href": "content/01_journal/04_data_visualization.html",
     "title": "Data Visualization",
@@ -31,15 +38,8 @@
     "objectID": "content/01_journal/01_tidyverse.html#header-2",
     "href": "content/01_journal/01_tidyverse.html#header-2",
     "title": "Tidyverse",
-    "section": "\n2.1 Header 2",
-    "text": "2.1 Header 2\nHeader 3\nHeader 4\nHeader 5\nHeader 6"
-  },
-  {
-    "objectID": "content/01_journal/02_data_acquisition.html",
-    "href": "content/01_journal/02_data_acquisition.html",
-    "title": "Data Acquisition",
-    "section": "",
-    "text": "Note\n\n\n\nYou can delete everything in here and start fresh."
+    "section": "2.1 Header 2",
+    "text": "2.1 Header 2\n\nHeader 3\n\nHeader 4\n\nHeader 5\n\nHeader 6"
   },
   {
     "objectID": "content/02_notes/05_class_notes.html",
@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "My Lab Journal",
     "section": "",
-    "text": "This is a template example for lab journaling. Students in the data science courses at the Institute of Entrepreneurship will use this template to learn R for business analytics. Students can replace this text as they wish."
+    "text": "SoSe23, Business Data Science with Machine Learning"
   },
   {
     "objectID": "index.html#how-to-use",
